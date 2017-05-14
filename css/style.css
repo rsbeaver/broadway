@@ -2,7 +2,7 @@ body{
   font-family: "Helvitica", sans-serif;
 }
 
-h1,h2,h3{
+h1, h2, h3{
   font-weight: bold;
 }
 
@@ -22,5 +22,24 @@ color: white;
 .btn-nav{
   font-size: 18px;
   color: white;
+
+}
+
+.our-process{
+  text-align: center;
+}
+
+.our-process h2{
+  font-size: 32px;
+
+}
+
+.our-process h3{
+  font-size: 23px
+
+}
+
+.support-image{
+  font-size: 14PX
 
 }
