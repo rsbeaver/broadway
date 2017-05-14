@@ -42,4 +42,14 @@ color: white;
 .support-image{
   font-size: 14PX
 
+}.designNY h2{
+  font-size: 23px;
+
+}
+
+.footer{
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+  color: white;
 }
